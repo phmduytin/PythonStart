@@ -13,3 +13,12 @@ if day in weekend or date in holiday:
     print('Let\'s fun')
 else:
     print('Go to work')
+
+
+
+
+
+
+
+
+
