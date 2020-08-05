@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c172f12a-8697-4480-9208-1d9aad736058" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExamPractices/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/InheritanceVsComposition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Built in Funtions/ZipBasic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Built in Funtions/ZipBasic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Structure/NumberOdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Structure/NumberOdd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Structure/Ziczac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Structure/Ziczac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cython/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cython/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPractices/Fibonaci.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExamPractices/Fibonaci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPractices/GCD_Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExamPractices/GCD_Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPractices/Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExamPractices/Lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Init.py" beforeDir="false" afterPath="$PROJECT_DIR$/Init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set Programming/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Set Programming/caesar_cipher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set Programming/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Set Programming/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set Programming/stack_postfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Set Programming/stack_postfix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/BubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/BubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/InsertSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/InsertSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/SelectSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/SelectSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +39,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.QuickSort">
-    <configuration name="GCD_Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.InheritanceVsComposition">
+    <configuration name="InheritanceVsComposition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExamPractices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExamPractices/GCD_Recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/InheritanceVsComposition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExamPractices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExamPractices/Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LambdaFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/LambdaFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExamPractices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExamPractices/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/Recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.QuickSort" />
-        <item itemvalue="Python.GCD_Recursion" />
-        <item itemvalue="Python.Recursion" />
-        <item itemvalue="Python.Lambda" />
-        <item itemvalue="Python.LambdaFunction" />
+        <item itemvalue="Python.InheritanceVsComposition" />
+        <item itemvalue="Python.OOP5" />
+        <item itemvalue="Python.OOP4" />
+        <item itemvalue="Python.OOP2" />
+        <item itemvalue="Python.OOP3" />
       </list>
     </recent_temporary>
   </component>
@@ -193,93 +183,39 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="217" y="19" key="#Custom_Plugin_Repositories/62.0.1304.768@62.0.1304.768" timestamp="1589385119454" />
-    <state x="478" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587480801192">
+    <state width="1283" height="171" key="GridCell.Tab.0.bottom" timestamp="1596553916664">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="478" y="174" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768@62.0.1304.768" timestamp="1587480801192" />
-    <state x="437" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587050174439">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="437" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1587050174439" />
-    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1587477679685">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="366" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1587477679685" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1587051004088">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587051004088" />
-    <state x="613" y="311" key="Github.CreateGistDialog" timestamp="1587182639809">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="613" y="311" key="Github.CreateGistDialog/62.0.1304.768@62.0.1304.768" timestamp="1587182639809" />
-    <state width="1283" height="171" key="GridCell.Tab.0.bottom" timestamp="1592317332976">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587050176899" />
     <state width="1344" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1345" height="158" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1587052160083" />
-    <state width="1283" height="171" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1592317332976" />
-    <state width="1283" height="171" key="GridCell.Tab.0.center" timestamp="1592317332975">
+    <state width="1283" height="171" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
+    <state width="1283" height="171" key="GridCell.Tab.0.center" timestamp="1596553916664">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587050176899" />
     <state width="1344" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1345" height="158" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1587052160083" />
-    <state width="1283" height="171" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1592317332975" />
-    <state width="1283" height="171" key="GridCell.Tab.0.left" timestamp="1592317332975">
+    <state width="1283" height="171" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
+    <state width="1283" height="171" key="GridCell.Tab.0.left" timestamp="1596553916664">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587050176894" />
     <state width="1344" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1345" height="158" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1587052160083" />
-    <state width="1283" height="171" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1592317332974" />
-    <state width="1283" height="171" key="GridCell.Tab.0.right" timestamp="1592317332975">
+    <state width="1283" height="171" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
+    <state width="1283" height="171" key="GridCell.Tab.0.right" timestamp="1596553916664">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587050176899" />
     <state width="1344" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1345" height="158" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1587052160083" />
-    <state width="1283" height="171" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1592317332975" />
-    <state width="1283" height="217" key="GridCell.Tab.1.bottom" timestamp="1587185271734">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="217" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1587185271734" />
-    <state width="1283" height="217" key="GridCell.Tab.1.center" timestamp="1587185271734">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="217" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1587185271734" />
-    <state width="1283" height="217" key="GridCell.Tab.1.left" timestamp="1587185271734">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="217" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1587185271734" />
-    <state width="1283" height="217" key="GridCell.Tab.1.right" timestamp="1587185271734">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state width="1283" height="217" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1587185271734" />
+    <state width="1283" height="171" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
     <state x="67" y="3" key="SettingsEditor" timestamp="1589986621383">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="305" y="3" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587051594150" />
     <state x="67" y="3" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1589986621383" />
     <state x="126" y="3" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1589385268103" />
-    <state x="424" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1592313685879">
+    <state x="424" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1596641213511">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587051373384" />
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590020635618" />
-    <state x="424" y="198" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1592313685879" />
-    <state x="521" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587477674533">
+    <state x="424" y="198" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1596641213511" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1595651310235">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="521" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1587477674533" />
-    <state x="282" y="38" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587185175771">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="282" y="38" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/62.0.1304.768@62.0.1304.768" timestamp="1587185175771" />
-    <state x="377" y="89" key="search.everywhere.popup" timestamp="1587268331682">
-      <screen x="62" y="0" width="1304" height="768" />
-    </state>
-    <state x="377" y="89" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1587268331682" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1595651310235" />
   </component>
 </project>
