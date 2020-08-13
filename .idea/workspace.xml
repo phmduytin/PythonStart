@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c172f12a-8697-4480-9208-1d9aad736058" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/InheritanceVsComposition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/phmduytin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level1/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level2/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level2/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level2/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level2/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_QuanTriMang/Level2/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with File/Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with File/Lyric.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Init.py" beforeDir="false" afterPath="$PROJECT_DIR$/Init.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +50,17 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
-  <component name="RunManager" selected="Python.InheritanceVsComposition">
-    <configuration name="InheritanceVsComposition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Study\Python Learning\Practice_QuanTriMang\Level1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.13">
+    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/InheritanceVsComposition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2/10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2/11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_QuanTriMang/Level2/13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Init.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.InheritanceVsComposition" />
-        <item itemvalue="Python.OOP5" />
-        <item itemvalue="Python.OOP4" />
-        <item itemvalue="Python.OOP2" />
-        <item itemvalue="Python.OOP3" />
+        <item itemvalue="Python.13" />
+        <item itemvalue="Python.Init" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.10" />
       </list>
     </recent_temporary>
   </component>
@@ -183,36 +203,44 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="217" y="19" key="#Custom_Plugin_Repositories/62.0.1304.768@62.0.1304.768" timestamp="1589385119454" />
-    <state width="1283" height="171" key="GridCell.Tab.0.bottom" timestamp="1596553916664">
+    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1597334040419">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="366" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1597334040419" />
+    <state x="405" y="115" key="FileChooserDialogImpl" timestamp="1597243939272">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="405" y="115" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1597243939272" />
+    <state width="1283" height="171" key="GridCell.Tab.0.bottom" timestamp="1597334591360">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1344" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1283" height="171" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
-    <state width="1283" height="171" key="GridCell.Tab.0.center" timestamp="1596553916664">
+    <state width="1283" height="171" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1597334591360" />
+    <state width="1283" height="171" key="GridCell.Tab.0.center" timestamp="1597334591360">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1344" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1283" height="171" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
-    <state width="1283" height="171" key="GridCell.Tab.0.left" timestamp="1596553916664">
+    <state width="1283" height="171" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1597334591360" />
+    <state width="1283" height="171" key="GridCell.Tab.0.left" timestamp="1597334591359">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1344" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1283" height="171" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
-    <state width="1283" height="171" key="GridCell.Tab.0.right" timestamp="1596553916664">
+    <state width="1283" height="171" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1597334591359" />
+    <state width="1283" height="171" key="GridCell.Tab.0.right" timestamp="1597334591360">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1344" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590109149139" />
-    <state width="1283" height="171" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1596553916664" />
-    <state x="67" y="3" key="SettingsEditor" timestamp="1589986621383">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1283" height="171" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1597334591360" />
+    <state x="126" y="3" key="SettingsEditor" timestamp="1597244111471">
+      <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="67" y="3" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1589986621383" />
-    <state x="126" y="3" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1589385268103" />
-    <state x="424" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1596641213511">
+    <state x="126" y="3" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1597244111471" />
+    <state x="424" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1597329049510">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590020635618" />
-    <state x="424" y="198" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1596641213511" />
+    <state x="424" y="198" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1597329049510" />
     <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1595651310235">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
